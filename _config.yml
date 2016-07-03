@@ -1,0 +1,28 @@
+name: lefthandedwritings
+favicon: null
+layout_spectrum: 0.88535620062612
+typography_spectrum: 0.928960288874805
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3036194418091327
+  lightness: 0.5130828502587974
+  saturation: 0.8579198140650988
+  rhythmicContrast: 0.26126377028413117
+purpose: []
